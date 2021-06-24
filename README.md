@@ -14,17 +14,17 @@ There are two types of widgets:
 
 ## When to use main Axis Alignment and cross Axis Alignment?
 
+`````
 For Row:
 mainAxisAlignment = Horizontal Axis
 crossAxisAlignment = Vertical Axis
-```
-For Column:
 
+For Column:
 mainAxisAlignment = Vertical Axis
 crossAxisAlignment = Horizontal Axis
-```
+`````
 
 ## For More
 
 Please visit interview questions
-*[flutter interview questions](https://www.interviewquestions.app/flutter-interview-questions-answers-2021/)
+* [flutter interview questions](https://www.interviewquestions.app/flutter-interview-questions-answers-2021/)
